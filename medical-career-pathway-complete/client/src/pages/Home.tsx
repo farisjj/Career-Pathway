@@ -240,7 +240,7 @@ export default function Home() {
             {/* Column 1: Logo and Brand */}
             <div className="text-center md:text-center flex flex-col items-center">
               <img
-                src="/manus-storage/8381_2803f204.jpg"
+                src="/IMG_20260519_134247_878.jpg"
                 alt="The Good Doctors Logo"
                 className="w-24 h-24 mb-4 object-contain"
               />
