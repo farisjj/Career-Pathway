@@ -350,7 +350,7 @@ export const countriesData: CountryData[] = [
       },
       {
         title: "SMLE",
-        description: "امتحان الترخيص الطبي في الخليج."
+        description: "امتحان الترخيص الطبي في الخليج(بديل مقبول)."
       }
     ],
     salaries: [
@@ -416,7 +416,7 @@ export const countriesData: CountryData[] = [
     tags: [
       { label: "اللغة", value: "الألمانية والإنجليزية" },
       { label: "التكلفة", value: "متوسطة" },
-      { label: "الامتحانات", value: "FMGE" }
+      { label: "الامتحانات", value: "FSP / KP" }
     ],
     whyChoose: [
       { text: "نظام صحي متقدم جداً", icon: "Hospital" },
@@ -427,11 +427,11 @@ export const countriesData: CountryData[] = [
     ],
     exams: [
       {
-        title: "FMGE",
-        description: "امتحان الترخيص الطبي الألماني."
+        title: "KP (Kenntnisprüfung)",
+        description: "امتحان المعرفة الطبية والمعادلة للحصول على الترخيص الطبي الدائم."
       },
       {
-        title: "Language Test",
+        title: "Language Test (FSP)",
         description: "اختبار اللغة الألمانية (B2 أو C1)."
       }
     ],
@@ -441,7 +441,7 @@ export const countriesData: CountryData[] = [
     ],
     requirements: [
       { text: "شهادة طبية معترف بها", icon: "CheckCircle2" },
-      { text: "اجتياز FMGE", icon: "CheckCircle2" },
+      { text: "اجتياز امتحانات المعادلة (FSP / KP)", icon: "CheckCircle2" },
       { text: "إتقان اللغة الألمانية", icon: "CheckCircle2" },
       { text: "خبرة سريرية", icon: "CheckCircle2" }
     ],
